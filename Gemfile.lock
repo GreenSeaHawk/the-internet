@@ -116,6 +116,7 @@ GEM
     timeout (0.4.4)
     uuid (2.3.9)
       macaddr (~> 1.0)
+    webrick (1.9.2)
     websocket (1.2.11)
     zurb-foundation (4.3.2)
       sass (>= 3.2.0)
@@ -136,6 +137,7 @@ DEPENDENCIES
   sinatra-contrib
   sinatra-flash
   uuid
+  webrick
   zurb-foundation
 
 BUNDLED WITH
