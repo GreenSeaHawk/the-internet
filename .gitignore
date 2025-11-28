@@ -5,5 +5,5 @@ tests/evidence/
 .DS_Store
 vendor/*
 .rbenv-version
-.ruby-version
+#.ruby-version
 .rvmrc
